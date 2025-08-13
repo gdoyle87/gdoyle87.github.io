@@ -1,2 +1,5 @@
-# gdoyle87.github.io
-Landing page and redirect rules for my GitHub Pages projects.
+# About
+
+This repo is the deffault landing page for my github pages projects. 
+
+
