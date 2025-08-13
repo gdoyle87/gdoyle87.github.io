@@ -1,4 +1,4 @@
-# <username>.github.io
+# gdoyle87.github.io
 
 This repository hosts my **default GitHub Pages site** at:
 
