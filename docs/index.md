@@ -1,3 +1,7 @@
+---
+title: "Learning & Projects Hub"
+---
+
 ## Class Notes
 These are my hosted notes for various courses.
 
