@@ -1,0 +1,3 @@
+title: 'My Homepage' # Or your custom title, e.g., 'My Homepage'
+name: 'GD'   # This nullifies the owner's full name
+description: 'BCIT Notes and other Projects'  # Optional: Clear any subtitle/description
