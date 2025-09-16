@@ -1,13 +1,3 @@
----
-layout: default
-title: Home
-author: Gary
----
-
-# Welcome
-
-This is the landing page for my GitHub Pages projects.
-
 ## Class Notes
 These are my hosted notes for various courses.
 
